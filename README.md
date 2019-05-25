@@ -2,11 +2,11 @@
 Automated version of face_recognition
 intended only for kali!
 <br>
-<b>Installation Instructions<b>
+<b>Installation Instructions</b>
  <ol type="1">
-   <ul>apt install python3 python3-pip git</ul>
-   <ul>git clone https://github.com/deadfishhackers/AutoFaceRecognition.git</ul>
-   <ul>bash install.sh</ul>
+   <li>apt install python3 python3-pip git</li>
+   <li>git clone https://github.com/deadfishhackers/AutoFaceRecognition.git</li>
+   <li>bash install.sh</li>
  </ol>
   <br>
   <b>Voila done! if found any issues, create an issue!</b>
