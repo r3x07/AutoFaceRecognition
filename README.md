@@ -13,5 +13,6 @@ intended only for kali!
   <video>
   <source src="https://raw.githubusercontent.com/deadfishhackers/AutoFaceRecognition/master/test.webm">
   </video>
+  <b><a href="https://raw.githubusercontent.com/deadfishhackers/AutoFaceRecognition/master/test.webm">A quick view of what it looks like. </a></b>
 <hr>
 <p align="center"><img src="http://i63.tinypic.com/b6r2if_th.png"></p>
