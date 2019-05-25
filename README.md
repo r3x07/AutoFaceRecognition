@@ -1,5 +1,5 @@
 # AutoFaceRecognition
-Automated version of face_recognition
+Automated version of [face_recognition](https://github.com/ageitgey/face_recognition)
 intended only for kali!
 <br>
 <b>Installation Instructions</b>
