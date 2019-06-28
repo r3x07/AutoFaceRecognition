@@ -1,5 +1,5 @@
 # AutoFaceRecognition
-<img src="https://camo.githubusercontent.com/4579b9ef6cf788a246c686b0e2bba2ed8b0b1fa4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f727465642532304f532d4c696e75782d79656c6c6f772e737667" align=middle>
+<img src="https://camo.githubusercontent.com/4579b9ef6cf788a246c686b0e2bba2ed8b0b1fa4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f727465642532304f532d4c696e75782d79656c6c6f772e737667">
 Automated version of [face_recognition](https://github.com/ageitgey/face_recognition)
 intended only for kali!
 <br>
