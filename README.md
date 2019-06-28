@@ -6,7 +6,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <br><br>
 Automated version of <a href="https://github.com/ageitgey/face_recognition">face_recognition</a>
-intended only for kali!
+intended only for kali! <hr>
 <br>
 <b>Installation Instructions</b>
  <ol type="1">
